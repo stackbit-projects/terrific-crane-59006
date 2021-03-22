@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: I am totally changing the title of my home page
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      I would also like to change this text so people can understand better what
+      this page is about.
     actions:
       - label: Learn More
         url: /features
